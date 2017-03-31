@@ -1,0 +1,27 @@
+{
+  "name": "mongodb-crud",
+  "version": "1.0.0",
+  "description": "Basic mongodb crud",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g10vlad/mongodb-crud.git"
+  },
+  "keywords": [
+    "mongo",
+    "mongodb",
+    "crud"
+  ],
+  "author": "Vladimir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g10vlad/mongodb-crud/issues"
+  },
+  "homepage": "https://github.com/g10vlad/mongodb-crud#readme",
+  "dependencies": {
+    "mongodb": "^2.2.25"
+  }
+}
